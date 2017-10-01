@@ -1,2 +1,0 @@
-# Flashcard-Generator
-FlashCard Game
